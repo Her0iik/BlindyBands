@@ -53,6 +53,15 @@ Mobile app is, at this time, a bit far away from its final state. A lot of thing
 - Current geoposition is not accurate
 - Determined route seems to not work. Waypoints are not corrects
 - Navigation API is giving Right/Left angles relative to true north. This is not considered at this time.
-- Bluetooth connexion is set up, but not tested, as we could not interface it to Tinkercad simulation.
+- Bluetooth connection is set up, but not tested, as we could not interface it to Tinkercad simulation.
 
 There's also a lot of things to do to truly have a visually-impaired-friendly application, as it today required to tap on a button to start voice recording.
+
+### Bracelets
+
+The bracelets are, at this time, half finished. A lot of things remains to do, and some implemented features are not working well.
+
+- The Bluetooth connection is simulated. We are currently using the serial monitor.
+- The buzzer is not set up.
+- The obstacle detector is not fully implemented in the code.
+- We don't manage the measurement of the battery level
