@@ -36,6 +36,15 @@ Bracelets have an embedded battery, needing to be charged regularly. BlindyBands
 ## What remains to do ?
 
 ### Embedded system
+- Arduino Uno Rev3
+- Module gyroscope MPU-6050 + Module accéléromètre pour MPU 6050
+- Capteur de distance ultrason HC-SR04
+- Module Bluetooth HC05
+- SparkFun Battery Level Indicator Kit
+- Module vibreur Grove 105020003
+- Piezo Buzzer pour Arduino
+- Bouton-Poussoir Module avec Chapeau Haut Sortie électronique
+- Résistance à couche carbone 1kΩ
 
 ### Mobile application
 
