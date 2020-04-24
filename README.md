@@ -42,6 +42,11 @@ The bracelets must have been paired to the smartphone and fully charged in order
 Bracelets have an embedded battery, needing to be charged regularly. BlindyBands is provided with an induction battery charger. Just let the bracelets on the charger and it'll be done !
 
 
+## Modelisation Tinkercad
+
+![alt text](https://cdn.discordapp.com/attachments/652510611665715211/703192175113928755/unknown.png)
+
+
 ## What remains to do ?
 
 ### Embedded system
