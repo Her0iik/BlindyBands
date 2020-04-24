@@ -44,6 +44,8 @@ Bracelets have an embedded battery, needing to be charged regularly. BlindyBands
 
 ## Tinkercad modelisation
 
+Lien: https://www.tinkercad.com/things/lpm1fqWHIyX
+
 ![alt text](https://cdn.discordapp.com/attachments/652510611665715211/703192175113928755/unknown.png)
 
 
