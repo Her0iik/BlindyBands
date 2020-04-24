@@ -1,5 +1,11 @@
 # BlindyBands
 
+## Team
+
+* Mouhamed Diallo
+* Alexandre Hascour
+* Guillaume Tripier
+
 ## Presentation
 
 BlindyBands is an IoT project targetting visually impaired persons, providing them a way to navigate outside by themselves, only with a smartphone a pair of connected bracelets.
